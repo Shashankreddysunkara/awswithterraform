@@ -2,3 +2,5 @@
 **/privatekey/*
 # exclude crash.log
 crash.log
+# ignore .pem file
+*.pem
