@@ -1,0 +1,4 @@
+# ignote private key
+**/privatekey/*
+# exclude crash.log
+crash.log
